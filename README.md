@@ -1,4 +1,4 @@
-# Simple Unity Calendar
+# Simple Unity Calendar Preview
 This Unity project shows how to implement a simple calendar.
 
 ## Build-in .NET APIs for Calendar implementation
@@ -15,5 +15,4 @@ The method is to determine how many days in the month.
 The logic of the calendar is implemented in the Initialize method of BodyManager.cs
 So please refer to the source code.
 
-## Screenshot
-![Test Image 1](Screenshot.png)
+
